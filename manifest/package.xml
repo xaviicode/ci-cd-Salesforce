@@ -3,7 +3,6 @@
   <types>
     <members>*</members>
     <name>ApexClass</name>
-    <version>59.0</version>
   </types>
   <types>
     <members>*</members>
@@ -45,5 +44,5 @@
     <members>*</members>
     <name>PermissionSet</name>
   </types>
-  <version>59.0</version>
+  <version>62.0</version>
 </Package>
